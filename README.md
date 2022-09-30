@@ -1,2 +1,2 @@
 # pandas-groupby
- pandas groupby basic cheatsheet
+ pandas basic cheatsheet
